@@ -1,9 +1,9 @@
 # InstallDPM003
 
-Este script de automação em PowerShell foi desenvolvido para realizar o deploy e atualização do PaperCut Direct Print Monitor.
+>Este script de automação em PowerShell foi desenvolvido para realizar o deploy e atualização do PaperCut Direct Print Monitor.
 
 # Finalidade:
-O script foi criado para facilitar a contabilização de impressões que ocorrem fora do servidor de impressão principal (impressão direta via IP ou filas locais), garantindo que todos os jobs de impressão sejam devidamente registrados pelo PaperCut MF.
+>O script foi criado para facilitar a contabilização de impressões que ocorrem fora do servidor de impressão principal (impressão direta via IP ou filas locais), garantindo que todos os jobs de impressão sejam devidamente registrados pelo PaperCut MF.
 
 # Funcionalidades:
 >Instalação Silenciosa: Realiza o deploy sem intervenção do usuário.
